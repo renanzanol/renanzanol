@@ -1,6 +1,6 @@
 # Sobre mim
 
-- 👋 Olá, meu nome é @renanzanol
+- 👋 Olá, meu nome é **@renanzanol**
 - 👀 Estou interessado em aprender a programar
 - 🌱 Estou aprendendo a progamar recentemente a linguagem JavaScript e Scratch
 - 📫 Email de contato: renan.zanol@escola.pr.gov.br
